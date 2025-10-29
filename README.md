@@ -16,14 +16,6 @@ A futuristic virtual keyboard powered by hand gestures using MediaPipe, OpenCV, 
 - PyAutoGUI – simulating key presses
 - Python 3.x
 
-🚀 How to Run
-- Clone the repo
-git clone https://github.com/prashanthdudekula/virtual-keyboard.git
-cd your-repo-name
-- Install dependencies
-pip install opencv-python mediapipe pyautogui
-- Run the script
-python gesture_keyboard.py
 
 
 
