@@ -4,7 +4,7 @@ A futuristic virtual keyboard powered by hand gestures using MediaPipe, OpenCV, 
 📸 Features
 - 🖐️ Gesture-based typing using fingertip detection
 - 🎨 Stylish keyboard layout with neon borders and smooth design
-- 🔠 Shift toggle for uppercase and lowercase letters
+- 🔠 Shift toggle for uppercase and lowercase letters                   
 - 📝 Live text display with multi-line support
 - 🗂️ Automatic saving to typed_output.txt
 - 🧾 Instant Notepad launch to view typed text
